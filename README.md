@@ -10,6 +10,8 @@ https://arxiv.org/pdf/1808.09568.pdf
 ## Methods
 
 ### Data
+https://drexel0-my.sharepoint.com/:u:/g/personal/az548_drexel_edu/Ee-4nyzqx75JurbGzTv246EB_bcG4-A9827G9AwMuT5gyQ?e=Laa7Ls
+
 https://cydar.ist.psu.edu/emotionchallenge/index.php
 
 ### Models: 
