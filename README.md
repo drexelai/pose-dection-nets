@@ -15,10 +15,14 @@ https://drexel0-my.sharepoint.com/:u:/g/personal/az548_drexel_edu/Ee-4nyzqx75Jur
 https://cydar.ist.psu.edu/emotionchallenge/index.php
 
 ### Models: 
-* MediaPipe
-* 3D classifier (CNN or Sparse coding)
+* YOLO, MoveNet, PoseNet (Getting pose coordinates)
+* Transformer models (classification task)
 
-For each dataset:
-* Use MediaPipe to track detailed facial and body features
-* Pass the information from each frame to the 3D classifier
-* Output is one hot vector and 3 scalar values
+### Tasks:
+* Literature review of current methods -> Outline important findings (Everyone)
+  * Pose classification
+  * Pose estimation
+* Understanding the BoLD dataset (Alex)
+* Look through examples of pose estimation and classification (Arjit, Bobby, Alisha)
+
+
