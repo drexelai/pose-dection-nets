@@ -32,6 +32,7 @@ April 24th
 * Look into Omnipose and RSN (figure out if it's pretrained, look into features) -> Yashoda
 * Multi-person pose estimation? -> Arijit
 * Alex will look into MediaPipe and more detailed pose estimation
+
 For next meeting:
 * Compare outputs from each of the models
 * If outputs are good, move onto classification
