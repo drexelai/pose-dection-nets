@@ -41,3 +41,12 @@ For next meeting:
 * Compare outputs from each of the models
 * If outputs are good, move onto classification
 
+May 4th
+* Alex - Finalize pipeline for encoding coordinates for each frame for each video, read TCN's https://arxiv.org/pdf/1703.10898.pdf
+* Steven - Run Coordinate encoding pipeline
+* Rithvik - Temporal Segment Networks
+* Anyone - Prototypical Cross-Attention Networks for Multiple Object Tracking and Segmentation vis.xyz/pub/pcan/
+
+* Everyone new to CNN's: 
+  * https://www.tensorflow.org/tutorials/images/cnn
+  * https://poloclub.github.io/cnn-explainer/
