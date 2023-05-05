@@ -50,3 +50,13 @@ May 4th
 * Everyone new to CNN's: 
   * https://www.tensorflow.org/tutorials/images/cnn
   * https://poloclub.github.io/cnn-explainer/
+
+Important:
+for every v that is 0, xyz are also 0
+
+1d convolution on 2d grid
+to shrink temporal dimension to 1x1xfeature maps -> spacial convolution ->feedforward network
+
+also could use attention mechanism & transformer instead of spacial
+
+seperate vs sequential convolutions for temporal and spatial
