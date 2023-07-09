@@ -2,6 +2,8 @@
 
 Drexel AI 2023 Spring Project
 
+### This project is discontinued
+
 ## Introduction:
 
 ## Background
